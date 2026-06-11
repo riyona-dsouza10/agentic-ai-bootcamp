@@ -7,4 +7,4 @@ Prints a greeting message to introduce the project.
 2. Run the program:
 python src/main.py
 ## Author
-Riyona Dsouza - SJEC Mangalore
+Riyona Dsouza 
